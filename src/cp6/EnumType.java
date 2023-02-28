@@ -1,5 +1,6 @@
 package cp6;
 
+
 public class EnumType {
 
     //枚舉類型
